@@ -13,3 +13,10 @@ Tags: Pohutukawa Child Theme
 @import url('../pohutukawa/style.css');
 
 /* Now you can start adding your own styles here. Use !important if neccessary. */
+
+body {
+    color: #bbb;
+}
+#wrap {
+    background: #060606;
+}
