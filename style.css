@@ -24,6 +24,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
 }
 
+#content blockquote.quotescollection p cite:before {
+	content:"";
+}
+
 
 /*-----------------------------------------------------------------------------------*/
 /*	CSS3 Media Queries for Responsiveness (mobile-first, from small to big)
