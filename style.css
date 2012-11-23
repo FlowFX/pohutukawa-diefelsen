@@ -23,6 +23,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
     color: #fff;
 }
+h1.entry-title a, h2.entry-title a {
+    color: #fff !important;
+}
+h1.entry-title a:hover, h2.entry-title a:hover {
+    color: #83d425 !important;
+}
 
 #content blockquote.quotescollection p cite:before {
 	content:"";
