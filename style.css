@@ -71,3 +71,89 @@ h1.entry-title a:hover, h2.entry-title a:hover {
 @media print {
 }
 
+
+
+
+/* --- Social Links Widget --- */
+ul.sociallinks li a.twitter {
+	background:#3DC7F4 url(images/socialicons-sprite.png) 0 0 no-repeat;
+}
+ul.sociallinks li a.facebook {
+	background:#3B5998 url(images/socialicons-sprite.png) -50px 0 no-repeat;
+}
+ul.sociallinks li a.googleplus {
+	background:#DD4B39 url(images/socialicons-sprite.png) -100px 0 no-repeat;
+}
+ul.sociallinks li a.flickr {
+	background:#0063DC url(images/socialicons-sprite.png) -150px 0 no-repeat;
+}
+ul.sociallinks li a.picasa {
+	background:#9C5AB7 url(images/socialicons-sprite.png) -200px 0 no-repeat;
+}
+ul.sociallinks li a.fivehundredpx {
+	background:#29B6FF url(images/socialicons-sprite.png) -250px 0 no-repeat;
+}
+ul.sociallinks li a.youtube {
+	background:#FF3132 url(images/socialicons-sprite.png) -300px 0 no-repeat;
+}
+ul.sociallinks li a.vimeo {
+	background:#0DAED7 url(images/socialicons-sprite.png) -350px 0 no-repeat;
+}
+ul.sociallinks li a.dribbble {
+	background:#EA4C89 url(images/socialicons-sprite.png) -400px 0 no-repeat;
+}
+ul.sociallinks li a.ffffound {
+	background:#FF009C url(images/socialicons-sprite.png) -450px 0 no-repeat;
+}
+ul.sociallinks li a.pinterest {
+	background:#DC3E47 url(images/socialicons-sprite.png) -500px 0 no-repeat;
+}
+ul.sociallinks li a.zootool {
+	background:#6E952F url(images/socialicons-sprite.png) -550px 0 no-repeat;
+}
+ul.sociallinks li a.behance {
+	background:#005CFF url(images/socialicons-sprite.png) -600px 0 no-repeat;
+}
+ul.sociallinks li a.deviantart {
+	background:#697C6E url(images/socialicons-sprite.png) -650px 0 no-repeat;
+}
+ul.sociallinks li a.squidoo {
+	background:#EB572B url(images/socialicons-sprite.png) -700px 0 no-repeat;
+}
+ul.sociallinks li a.slideshare {
+	background:#0378C8 url(images/socialicons-sprite.png) -750px 0 no-repeat;
+}
+ul.sociallinks li a.lastfm {
+	background:#DB1302 url(images/socialicons-sprite.png) -800px 0 no-repeat;
+}
+ul.sociallinks li a.grooveshark {
+	background:#F89E00 url(images/socialicons-sprite.png) -850px 0 no-repeat;
+}
+ul.sociallinks li a.soundcloud {
+	background:#FF6900 url(images/socialicons-sprite.png) -900px 0 no-repeat;
+}
+ul.sociallinks li a.foursquare {
+	background:#4AADD7 url(images/socialicons-sprite.png) -950px 0 no-repeat;
+}
+ul.sociallinks li a.gowalla {
+	background:#FF9914 url(images/socialicons-sprite.png) -1000px 0 no-repeat;
+}
+ul.sociallinks li a.linkedin {
+	background:#0073A5 url(images/socialicons-sprite.png) -1050px 0 no-repeat;
+}
+ul.sociallinks li a.xing {
+	background:#006062 url(images/socialicons-sprite.png) -1100px 0 no-repeat;
+}
+ul.sociallinks li a.wordpress {
+	background:#247CA4 url(images/socialicons-sprite.png) -1150px 0 no-repeat;
+}
+ul.sociallinks li a.tumblr {
+	background:#486681 url(images/socialicons-sprite.png) -1200px 0 no-repeat;
+}
+ul.sociallinks li a.rss {
+	background:#F28D35 url(images/socialicons-sprite.png) -1250px 0 no-repeat;
+}
+ul.sociallinks li a.rsscomments {
+	background:#F28D35 url(images/socialicons-sprite.png) -1300px 0 no-repeat;
+}
+
