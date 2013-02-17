@@ -33,6 +33,9 @@ h1.entry-title a:hover, h2.entry-title a:hover {
 #content blockquote.quotescollection p cite:before {
 	content:"";
 }
+.page-id-66 div.two-columns-one {
+    margin-top: -33px;
+}
 
 
 /*-----------------------------------------------------------------------------------*/
