@@ -36,6 +36,9 @@ h1.entry-title a:hover, h2.entry-title a:hover {
 .page-id-66 div.two-columns-one {
     margin-top: -33px;
 }
+span.eventdate p {
+    margin-bottom: 1em !important;
+}
 
 
 /*-----------------------------------------------------------------------------------*/
